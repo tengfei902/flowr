@@ -1,0 +1,6 @@
+{
+    "bizName":"",
+    "fields":[
+        {"origin":"","target":"","type":"int|string|double|date",convertor:""}
+    ]
+}

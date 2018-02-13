@@ -1,0 +1,6 @@
+{
+    "selfAdjust":"on|off",
+    "handlers":[
+        {"id":"","subs":["","",""]}
+    ]
+}
