@@ -8,7 +8,12 @@ public class StrConvertor implements Convertor {
     private Map<String,String> strMap = new HashMap<>();
 
     @Override
-    public String convert(String key) {
-        return strMap.get(key);
+    public String convertKey() {
+        return null;
+    }
+
+    @Override
+    public String convertValue(String originValue) {
+        return null;
     }
 }
