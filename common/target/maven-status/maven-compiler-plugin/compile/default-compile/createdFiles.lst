@@ -1,0 +1,9 @@
+com/flowr/common/model/AdResponse.class
+com/flowr/common/App.class
+com/flowr/common/annotations/Handler$Step.class
+com/flowr/common/model/enums/Status.class
+com/flowr/common/model/IdToken.class
+com/flowr/common/model/Module.class
+com/flowr/common/exceptions/AdBizException.class
+com/flowr/common/annotations/Handler.class
+com/flowr/common/model/AdRequest.class
